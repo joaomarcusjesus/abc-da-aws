@@ -44,3 +44,6 @@ o meu conhecimento era básico e vi uma oportunidade de aprender como melhorar o
   5. Massa, vamos adicionar as permissões que criamos a esse usuário, selecione o nosso grupo <b>Administradores</b>, siga próxima epata.
   6. Por enquanto, vamos ignorar esse rolê de tags que eu não entendi carai nenhum.
   7. Guarde suas credenciais no coração e vamos para o próximo desafio.
+  
+## Segundo desafio
+   Criar uma VPC com subnets privadas e subnets públicas
